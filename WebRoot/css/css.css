@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+body{
+	background-image:url(../photo/m.jpg);
+	background-size:100% 100%;
+	
+	
+}
+.k{
+	background-image:url(../photo/k1.png);
+	background-size:100% 100%;
+	
+	margin-top:100px;
+	margin-right:100px;
+	width:340px;
+	height:450px;
+	float:right;
+}
