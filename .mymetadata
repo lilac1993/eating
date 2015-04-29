@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
-  name="eatingserver"
-  id="myeclipse.1414462210390"
-  context-root="/eatingserver"
+  name="wsch"
+  id="myeclipse.1428673215265"
+  context-root="/wsch"
   j2ee-spec="5.0"
-  archive="eatingserver.war">
+  archive="wsch.war">
   <attributes>
     <attribute name="webrootdir" value="WebRoot" />
   </attributes>
