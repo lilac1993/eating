@@ -32,6 +32,7 @@ tab.prototype = {
 		try{
 			$(this['link']['id']+'_'+this['link']['cur']['Index']).style.display = 'none';
 			$(this['link']['id']+'_'+this['Index']).style.display = 'block';
+			
 		}catch(e){}
 		this.callBack.call(this);
 		this['link']['cur'] = this;

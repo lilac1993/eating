@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+body{
+	background:blue;
+}
+.index_right,
+	.index_right_float,
+	.navigation_div{
+	width:865px;	
+}
+	
